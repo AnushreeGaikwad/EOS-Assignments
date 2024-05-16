@@ -1,5 +1,5 @@
 
-TARGET=Assig3_day11
+TARGET=assig2
 
 CSRCS= $(TARGET).c
 CSRCS+= 
